@@ -10,7 +10,7 @@ Cara Install Bot Token Di Termux :
 ------
 - `pkg install nodejs -y`
 - `pkg install git -y`
-- `git clone https://github.com/arifistifik/token`
+- `git clone https://github.com/0954517662/token`
 - `pkg install nano`
 - `cd token`
 - `npm install`
@@ -33,7 +33,7 @@ Cara Install Bot Token Di C9/Server:
 - =================  [PROSES INSTALL]  =================
 - ==============================================
 - `sudo apt-get install nodejs`
-- `git clone https://github.com/arifistifik/token`
+- `git clone https://github.com/0954517662/token`
 - `ls`
 - `cd token`
 - `npm i`
